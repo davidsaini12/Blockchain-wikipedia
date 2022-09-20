@@ -1,0 +1,44 @@
+.firstdiv{
+    height:"100%";
+    width: "100%";
+    display:flex;
+
+
+}
+.seconddiv{
+    height:100%;
+    width: 165px;
+
+    
+
+  
+   
+
+}
+.thirddiv{
+  padding:8px;
+  height:100%;
+  margin-left: 10px;
+  border: 1px solid blueviolet;
+   
+
+
+}
+.fourthdiv{
+    
+    height:940px;
+    width: 270px;
+    border:1px solid;
+    background-color: rgba(255, 255, 255, 0.388);
+
+}
+.tocnumber{
+    color: black;
+    padding: 1px;
+}
+.box1{
+    float:right;
+    height:360px;
+    width:170px;
+    border:1px solid bisque;
+}
